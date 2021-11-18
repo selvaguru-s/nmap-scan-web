@@ -1,3 +1,0 @@
-npm i
-npm audit fix
-npm install node modules  
