@@ -52,7 +52,7 @@ router.get('/scan',function(req,res,next){
 	let range = "";
 	let t = "";
 	let string = "";
-	let ip = req.query.ip || "127.0.0.1";
+	let ip = req.query.ip;
 	let result;
 
 	if(req.query.range != undefined){ 
