@@ -1,1 +1,1 @@
-# nmap-scan-web
+# nmap scan with Web interface.
